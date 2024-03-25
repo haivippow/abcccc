@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "609864492232",
+    "project_id": "qlcv-c3351",
+    "storage_bucket": "qlcv-c3351.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609864492232:android:d6b013e49bc2cfd6ee31fd",
+        "android_client_info": {
+          "package_name": "com.example.qlcv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW9XxvyrRP3upgoA2mnADtcYo_eI7JSnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
